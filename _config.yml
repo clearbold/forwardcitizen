@@ -24,5 +24,5 @@ excerpt_separator: <!--more-->
 
 # Compensating for gh-pages project site
 # https://github.com/jekyll/jekyll/issues/332
-baseurl:          /forwardcitizen
-# baseurl:          ""
+# baseurl:          /forwardcitizen
+baseurl:          ""
