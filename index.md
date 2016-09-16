@@ -4,7 +4,7 @@ layout: home
 ---
 The future of design, marketing, and technology services for clients is **Digital&nbsp;Brand&nbsp;Support**.
 
-You know your brand is more than your logo. Your brand encompasses every bit of value your organization demonstrates. Some of that is intertwined with technology. Some of it consists of purposefully designed elements. Customers and community members interact with your brand on the web, in apps, on social media, through email, and via customer support or in-person&nbsp;interactions.
+Your brand is more than your logo. It encompasses every bit of value your organization demonstrates. Some of that is intertwined with technology. Some of it consists of purposefully designed elements. Customers and community members interact with your brand on the web, in apps, on social media, through email, and via customer support or in-person&nbsp;interactions.
 
 Gone are the days when we could advocate one single best approach or platform and design &amp; build for that. You have technology already in place or embedded in your industry. You have people coming at you through channels they&rsquo;re most comfortable in. Your brand needs a flexible website that can grow and evolve, content management tools, marketing email templates designed and coded for delivery, a logo and collateral kit, a style guide, a voice &amp; tone guide, or platform integration to move customer data from one system to another. You need a partner who supports any and all of that, and understands how those pieces fit&nbsp;together.
 
