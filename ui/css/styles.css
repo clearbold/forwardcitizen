@@ -1,0 +1,43 @@
+body {
+    color: #222;
+    font-family: monospace;
+    font-size: 16px;
+}
+.masthead {
+    margin-bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.masthead h1 {
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.content {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 700px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+}
+p, li {
+    line-height: 1.5em;
+    margin-bottom: 1.25em;
+}
+p {
+    text-indent: 1.5em;
+}
+a, a:active, a:visited {
+    color: #006563;
+}
+@media screen and (max-width: 700px) {
+    .content {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    ul {
+        margin-left: -4px;
+        padding-left: 16px;
+    }
+}
