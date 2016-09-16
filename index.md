@@ -13,7 +13,7 @@ Digital Brand Support is agnostic in approach and deliberate in strategy. It&rsq
 * The **content** people are asking for or you&rsquo;re trying to&nbsp;convey.
 * A **consistent** experience across all of your brand&rsquo;s channels&mdash;and within each channel, choosing utility over novelty to reduce friction in completing a&nbsp;task.
 * Transforming the **constraints** of digital channels&mdash;whether screen size, bandwidth, or device capabilities&mdash;into creative&nbsp;opportunities.
-* Understanding **context** to support individuals from different socioeconomic backgrounds, lifestyles, or time of day and&nbsp;location.
+* Understanding **context** to support individuals from different socioeconomic backgrounds, lifestyles, or times of day and&nbsp;locations.
 
 No job is too big, too small, or outside of our skillset in Digital Brand Support. Our job is to look at where we can bolster brand value across the four pillars, whether through pixels, process, or code. How we get the job done will continue to evolve over time. The what & the why of the job will remain constant. Through one-off projects or across a long-term relationship, that support is what we provide to&nbsp;you.
 
