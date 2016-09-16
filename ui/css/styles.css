@@ -28,6 +28,9 @@ p, li {
 p {
     text-indent: 1.5em;
 }
+ul {
+    padding-left: 24px;
+}
 a, a:active, a:visited {
     color: #006563;
 }
@@ -36,8 +39,10 @@ a, a:active, a:visited {
         padding-right: 10px;
         padding-left: 10px;
     }
+    p {
+        text-indent: 1em;
+    }
     ul {
-        margin-left: -4px;
         padding-left: 16px;
     }
 }
